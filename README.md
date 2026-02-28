@@ -26,8 +26,12 @@ summary: |
   This note distills the core mechanics: [o]+[t] framing, 
   n-rank survivor game evolution, and the three perturbation classes 
   (char/token/structure). Not the full BPJ—just the vibe.
+related_to:
+  - "https://claude.ai/public/artifacts/cf0b6184-7047-46bf-a027-4506f3ecc91b"
 vibe: chill thoughts ... trying to get this shit done ...
 ---
+
+claude_artifacts: https://claude.ai/public/artifacts/cf0b6184-7047-46bf-a027-4506f3ecc91b
 
 ![](./cover-image-bpj.png)
 
