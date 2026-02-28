@@ -31,9 +31,10 @@ related_to:
 vibe: chill thoughts ... trying to get this shit done ...
 ---
 
-claude_artifacts: https://claude.ai/public/artifacts/cf0b6184-7047-46bf-a027-4506f3ecc91b
-
 ![](./cover-image-bpj.png)
+
+github_repo: "https://github.com/bkornpob/bpj-toy-model"
+claude_artifacts: https://claude.ai/public/artifacts/cf0b6184-7047-46bf-a027-4506f3ecc91b
 
 ---
 
