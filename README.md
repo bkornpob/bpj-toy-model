@@ -242,3 +242,11 @@ C     >dr.kb< feat. #Dab
 C     GUARDIAN OF GROOVE | MULTIVERSE-LIB
 C     end note — vibe preserved, for seeks 🌌✨
 C================================================================================
+
+## toy experiment
+
+![](toy-experiment.png)
+
+---
+
+# the_end
