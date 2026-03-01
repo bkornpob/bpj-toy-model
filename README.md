@@ -35,6 +35,7 @@ vibe: chill thoughts ... trying to get this shit done ...
 
 github_repo: "https://github.com/bkornpob/bpj-toy-model"
 claude_artifacts: "https://claude.ai/public/artifacts/cf0b6184-7047-46bf-a027-4506f3ecc91b"
+grok_shortvid: "https://grok.com/imagine/post/fb25cff1-2589-4f19-8b67-2963589c6673?source=post-page&platform=web"
 
 ---
 
